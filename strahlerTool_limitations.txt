@@ -1,0 +1,5 @@
+
+- VBA-Skript läuft nur mit ArcGIS 10 & VBA Lizenzmanager
+
+- does not handle more than 20000 elements
+- STRAHLER classes > 8 NOT  possible; maximum STRAHLER class: 7 
